@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj": {}
+  },
+  "projects": {
+    "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
+        "projectName": "dotnetsamp1",
+        "projectPath": "d:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
+        "packagesPath": "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\",
+        "outputPath": "d:\\Relevantz\\dotnetsamp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\logeshwaran.mani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
