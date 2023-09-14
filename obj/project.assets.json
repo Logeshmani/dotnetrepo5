@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sanjai.harikrishnan\\.nuget\\packages\\": {}
+    "C:\\Users\\yuvaraj.sundara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\sanjai.harikrishnan\\Desktop\\sanjai_gitub\\dotnetrepo5\\dotnetsamp1.csproj",
+      "projectUniqueName": "d:\\Yuvaraj\\Technical activity\\GIT\\Yuvaraj\\dotnetrepo5\\dotnetsamp1.csproj",
       "projectName": "dotnetsamp1",
-      "projectPath": "c:\\Users\\sanjai.harikrishnan\\Desktop\\sanjai_gitub\\dotnetrepo5\\dotnetsamp1.csproj",
-      "packagesPath": "C:\\Users\\sanjai.harikrishnan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\sanjai.harikrishnan\\Desktop\\sanjai_gitub\\dotnetrepo5\\obj\\",
+      "projectPath": "d:\\Yuvaraj\\Technical activity\\GIT\\Yuvaraj\\dotnetrepo5\\dotnetsamp1.csproj",
+      "packagesPath": "C:\\Users\\yuvaraj.sundara\\.nuget\\packages\\",
+      "outputPath": "d:\\Yuvaraj\\Technical activity\\GIT\\Yuvaraj\\dotnetrepo5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sanjai.harikrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\yuvaraj.sundara\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
