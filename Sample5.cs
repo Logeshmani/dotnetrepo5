@@ -7,7 +7,7 @@
         Console.WriteLine("Enter Student name ");
         Console.ReadLine(Student);
         Console.WriteLine("Enter the Marks ");
-        Convert.ToInt32(Console.ReadLine());
+        Convert.ToInt32(Console.ReadLine());  // By Sneha
 
         
           Console.WriteLine($"The {StudentName} has scored ..... ");
