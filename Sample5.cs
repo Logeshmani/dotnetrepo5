@@ -17,8 +17,11 @@
 
         }
 
-        
-          Console.WriteLine($"The {StudentName} has scored ..... ");
+        else{
+          Console.WriteLine("Fail"); // by Yuvaraj
+        }
+
+          Console.WriteLine($"The {StudentName} has scored  with a grade {TotalMarks}..... ");// By Yuvaraj
        
     }
 }
